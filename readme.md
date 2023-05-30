@@ -1,6 +1,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<img src="https://github.com/pixelEDI/attiny_bluetooth/blob/f834d868a1215d9e614726377310a7d8cfe3071b/ATtiny_Sketch.jpg" width="500">
+<img src="https://github.com/pixelEDI/esp32_cube/blob/7101cef0eae3d0636a241fbe2dc87245dcbea2cb/rubikscube_holder.jpg" width="500">
 
 ## Source for this project
 https://github.com/playfultechnology/esp32-smartcube/blob/master/esp32-smartcube.ino
