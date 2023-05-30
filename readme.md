@@ -18,7 +18,7 @@ https://github.com/playfultechnology/esp32-smartcube/blob/master/esp32-smartcube
 * edit your crednetials wifi + mqtt
 * partition scheme has to be changed because wifi + ble needs a lot of flash space
 
-## Database
-The
+## 3D Files
+https://www.thingiverse.com/thing:6053314
 
 You like it? Then I would be very happy if you treat me to a coffee on [ko-fi.com/pixeledi](https://www.ko-fi.com/pixeledi)
